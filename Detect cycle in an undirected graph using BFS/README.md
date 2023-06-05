@@ -1,4 +1,4 @@
-### [Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-an-undirected-graph)
+### [Detect cycle in an undirected graph using BFS](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-an-undirected-graph)
 ## MEDIUM
 Given an undirected graph with V vertices and E edges, check whether it contains any cycle or not.
 Graph is in the form of adjacency list where adj[i] contains all the nodes ith node is having edge with.
