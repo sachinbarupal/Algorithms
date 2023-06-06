@@ -5,7 +5,13 @@ Given an adjacency list of a graph adj  of V no. of vertices having 0 based inde
 ## Example 1:
 
 Input: 
+
 ![Example -1](https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/700410/Web/Other/cdb283af-c52d-46df-8646-5017b45b5a13_1685086658.png)
+
+
+
+
+
 
 Output: 1
 Explanation: The given graph can be colored 
@@ -14,7 +20,11 @@ in two colors so, it is a bipartite graph.
 ## Example 2:
 
 Input:
+
 ![Example-2](https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/700410/Web/Other/471d9abf-5d47-48ea-aa35-2dace9f5a2da_1685086659.png)
+
+
+
 
 Output: 0
 Explanation: The given graph cannot be colored in two colors such that color of adjacent vertices differs. 
